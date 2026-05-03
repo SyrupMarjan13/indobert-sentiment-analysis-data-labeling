@@ -4,7 +4,7 @@ Proyek ini menerapkan fine-tuning pada model IndoBERT untuk klasifikasi sentimen
 
 ## Fitur Utama
 -Fine-tuned IndoBERT: Dioptimalkan untuk mencapai target akurasi di rentang 80% - 90%+.
--Klasifikasi Biner: Fokus pada kategori Positif dan Negatif untuk hasil pelabelan yang tegas.
+-Klasifikasi Biner: Fokus pada kategori Positif Negatif dan Netral untuk hasil pelabelan yang tegas.
 -Integrasi Hugging Face: Model telah diunggah ke Hugging Face Hub agar mudah diakses melalui API.
 -Automated Labeling: Siap digunakan untuk melabeli data mentah hasil scraping secara otomatis.
 
